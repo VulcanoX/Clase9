@@ -1,3 +1,1 @@
-
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+#Codificar la ventana1git
